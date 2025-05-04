@@ -1,5 +1,4 @@
- Welcome to my EduConnect Data Science repository!
- data — for raw and processed datasets
+data — for raw and processed datasets
 notebooks — for Jupyter notebooks and exploratory analyses
 scripts — for Python or R scripts used in data cleaning and modeling
 models — for saving machine learning models
